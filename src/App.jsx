@@ -85,10 +85,7 @@ const penalTasks = [{id:5, name :"detention", day:"Monday"},
         <Performance/>
         <MyProducts/>
         <MyList />
-        <NewBrand />
-        
-      
-       
+        <NewBrand />   
 
      </>
   )
