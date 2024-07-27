@@ -1,7 +1,11 @@
-import Foot from './Foot';
+import Foot from './Foot.jsx';
+import NewBrand from './NewBrand.jsx';
 function App() {
   return (
+    <>
     <Foot/>
+    <NewBrand/>
+    </>
   )
 }
 
