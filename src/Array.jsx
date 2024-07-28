@@ -21,6 +21,7 @@ function Array(){
     return(
     <>
         <h2>This is my hobbies list</h2>
+        <h3>Check it seriously</h3>
         <ul>
          {
          hobbies.map((hobby,index) =><li
