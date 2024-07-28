@@ -15,6 +15,7 @@ function Car(){
     }
         return(
         <>
+        <h2>This is more infos about my car</h2>
             <p>My car is {car.year} {car.color} 
             {car.type}</p>
             <input type="number" value={car.year} 
