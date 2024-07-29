@@ -12,6 +12,7 @@ function Favorite(props){
         "The meal of today was so delicious!":
      "No problem, i can try this also"}
       </p>
+      <p>This component is good</p>
     </>
     );
 
