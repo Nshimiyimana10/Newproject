@@ -13,6 +13,7 @@ function Favorite(props){
      "No problem, i can try this also"}
       </p>
       <p>This component is good</p>
+      <h3>I like React </h3>
     </>
     );
 
